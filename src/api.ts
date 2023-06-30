@@ -15,37 +15,37 @@ app.get('/', (req, res) => {
     {
       "id":1,
       "title" :"ACRYLIC BOX" ,
-      "image": "./public/images/Image01.jpg",
+      "image": "/images/Image01.jpg",
       "description":"These are jewellery Box. we can Box's make as per your size and order."
     },
     {
       "id":2,
       "title" :"ACRYLIC BOX" ,
-      "image": "./public/images/Image02.jpg",
+      "image": "/images/Image02.jpg",
       "description":"These are jewellery Box. we can Box's make as per your size and order."
     },
     {
       "id":3,
       "title" :"ACRYLIC BOX" ,
-      "image": "./public/images/Image03.jpg",
+      "image": "/images/Image03.jpg",
       "description":"These are jewellery Box. we can Box's make as per your size and order."
     },
     {
       "id":4,
       "title" :"ACRYLIC BOX" ,
-      "image": "./public/images/Image04.jpg",
+      "image": "/images/Image04.jpg",
       "description":"These are jewellery Box. we can Box's make as per your size and order."
     },
     {
       "id":5,
       "title" :"ACRYLIC BOX" ,
-      "image": "./public/images/Image06.jpg",
+      "image": "/images/Image05.jpg",
       "description":"These are jewellery Box. we can Box's make as per your size and order."
     },
     {
       "id":6,
       "title" :"ACRYLIC BOX" ,
-      "image": "./public/images/Image06.jpg",
+      "image": "/images/Image06.jpg",
       "description":"These are jewellery Box. we can Box's make as per your size and order."
     }
   ]);
